@@ -1,0 +1,6 @@
+# HTB - Vaccine 
+## Very easy 
+
+IP : 10.129.4.116
+
+To begin this challenge, I try to enumerate the IP Address t
